@@ -1,0 +1,10 @@
+Package: nonindependence
+Version: 0.1
+Date: 2012-18-09
+Title: Measuring nonindependence in dyadic designs
+Author: David Leiva <dleivaur@ub.edu>, Antonio Solanas <antonio.solanas@ub.edu>, & Lluis Salafranca <lsalafranca@ub.edu>
+Maintainer: David Leiva <dleivaur@ub.edu>
+Depends: R (>= 2.6.1)
+Description: nonindependence is a package that computes interdependence in dyadic designs.  Two main types of dyadic designs are taken into account: standard and non-standard designs.
+License: GPL (version 2 or later)
+Packaged: 2012-09-19 11:48:25 UTC; dleivaur

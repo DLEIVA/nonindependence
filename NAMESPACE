@@ -1,0 +1,24 @@
+export(block.SRM.between.groups.tTest,block.SRM.dyadic.reciprocity,block.SRM.dyadic.reciprocity.tTest,
+       block.SRM.effects,
+block.SRM.generalized.reciprocity,block.SRM.jackknife,block.SRM.relative.variances,
+       block.SRM.reliability,
+block.SRM.variances,categorical.distinguishable.dyad,categorical.indistinguishable.dyad,
+       distinguishable.dyad,
+indistinguishable.dyad,pairwise.correlation,prepare.block.matrix,prepare.SRM.matrix,
+       SRM.between.groups.tTest,
+SRM.dyadic.covariance.Ftest,SRM.dyadic.reciprocity,SRM.effects,
+       SRM.generalized.reciprocity,
+SRM.jackknife,SRM.relative.variances,SRM.reliability,SRM.variances,SRM.within.groups.tTest)
+
+
+S3method (print,dyadr)
+S3method (print,dyadicc)
+S3method (print,rp)
+S3method (print,dyadkappa)
+S3method (print,dyadkappa2)
+S3method (print,srmRREffects)
+S3method (print,srmRRVars)
+S3method (print,srmRRrelVars)
+S3method (print,srmCovFTest)
+S3method (print,srmWithintTest)
+
